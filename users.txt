@@ -1,0 +1,2 @@
+info@mail.com pass
+test@mail.com pass1 test@mail.com pass2
