@@ -3,7 +3,7 @@
 ############# CONFIGURATION ###########
 ACCOUNTS=users.txt
 SRCHOST=mail.com
-DSTHOST=mail.com
+DSTHOST=$SRCHOST
 THREADS=8
 OUTFILE="mailbox_sizes.txt"
 TMPDIR=$(mktemp -d)
